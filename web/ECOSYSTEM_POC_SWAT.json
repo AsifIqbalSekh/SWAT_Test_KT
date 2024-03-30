@@ -1,0 +1,700 @@
+[
+  {
+    "services": "accountmgt",
+    "parent_service": "ucde shared svc",
+    "swat_dept": "hppk",
+    "asset_architect": "phani kumar lanka",
+    "asset_tpm": "satya.guddati@hp.com"
+  },
+  {
+    "services": "uimgt",
+    "parent_service": "ucde shared svc",
+    "swat_dept": "hppk",
+    "asset_architect": "phani kumar lanka",
+    "asset_tpm": "satya.guddati@hp.com"
+  },
+  {
+    "services": "programmgt",
+    "parent_service": "ucde shared svc",
+    "swat_dept": "hppk",
+    "asset_architect": "phani kumar lanka",
+    "asset_tpm": "satya.guddati@hp.com"
+  },
+  {
+    "services": "usermgt",
+    "parent_service": "relationship svc",
+    "swat_dept": "hppk",
+    "asset_architect": "praveen kumar",
+    "asset_tpm": "satya.guddati@hp.com"
+  },
+  {
+    "services": "tenantmgt",
+    "parent_service": "relationship svc",
+    "swat_dept": "hppk",
+    "asset_architect": "praveen kumar",
+    "asset_tpm": "satya.guddati@hp.com"
+  },
+  {
+    "services": "permissionset",
+    "parent_service": "relationship svc",
+    "swat_dept": "hppk",
+    "asset_architect": "praveen kumar",
+    "asset_tpm": "satya.guddati@hp.com"
+  },
+  {
+    "services": "entitlement controller svc or grant controller svc",
+    "parent_service": "relationship svc",
+    "swat_dept": "hppk",
+    "asset_architect": "praveen kumar",
+    "asset_tpm": "satya.guddati@hp.com"
+  },
+  {
+    "services": "common resource registry",
+    "parent_service": "relationship svc",
+    "swat_dept": "hppk",
+    "asset_architect": "praveen kumar",
+    "asset_tpm": "satya.guddati@hp.com"
+  },
+  {
+    "services": "ecosystem event consumer",
+    "parent_service": "relationship svc",
+    "swat_dept": "hppk",
+    "asset_architect": "praveen kumar",
+    "asset_tpm": "satya.guddati@hp.com"
+  },
+  {
+    "services": "tnt migration service",
+    "parent_service": "relationship svc",
+    "swat_dept": "hppk",
+    "asset_architect": "praveen kumar",
+    "asset_tpm": "satya.guddati@hp.com"
+  },
+  {
+    "services": "tnt crr",
+    "parent_service": "relationship svc",
+    "swat_dept": "hppk",
+    "asset_architect": "praveen kumar",
+    "asset_tpm": "satya.guddati@hp.com"
+  },
+  {
+    "services": "commercesvc",
+    "parent_service": "strommerce bl",
+    "swat_dept": "hppk",
+    "asset_architect": "vishal lalwani",
+    "asset_tpm": "minhyuk kim"
+  },
+  {
+    "services": "cataglosvc",
+    "parent_service": "strommerce bl",
+    "swat_dept": "hppk",
+    "asset_architect": "vishal lalwani",
+    "asset_tpm": "minhyuk kim"
+  },
+  {
+    "services": "entitlementsvc",
+    "parent_service": "strommerce bl",
+    "swat_dept": "hppk",
+    "asset_architect": "vishal lalwani",
+    "asset_tpm": "minhyuk kim"
+  },
+  {
+    "services": "hppk",
+    "parent_service": "hppk devops",
+    "swat_dept": "hppk",
+    "asset_architect": "john choi",
+    "asset_tpm": "jeongbok@hp.com"
+  },
+  {
+    "services": "ows",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "gunashekar, sam lee, vadym shramkov, matheus longaray, david rossing",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "yetibl(hp+)",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "hota, subhendu (first point of contact), pedro coca",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "ii",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "ramon rubio(architecture)",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "ii front end  ",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "soraya sherwin",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "test setup issue",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "reporter",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "job history   ",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "anilkumar jvj",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "crm team",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "jennifer shewell,erica behnke",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "gotham app ",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "sharmila padmanabhan,matthew evert",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "simulator",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "sudheer reddy, gururathnam prabakar",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "dag ",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "tanuj bisen , jenson fernando , talari dhanunjaya",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "device cache team ",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "marco lovato/qing jiang",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "print anywhere team/roam",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "preeti jain, elsabban, ahmed, elsabban, ahmed",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "ballparks",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "avadhut upendra bhangui",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "hpsmart team (hpc3 project). mosaic api is managed by hpc3",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "anantha javalli, alternate poc- lennon hitzeman, karthick vudath",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "android hp smartapp",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "carolyn lau , randall.chyau1@hp.com",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "ios",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "christian northfleet",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "privacy team--",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "rose ng",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "jam team",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "diane amdor joel fyan",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "cleanup tool",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "george marcus tool",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "hpid",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "indiara palavro, piddington jeffrey wade, alexandre baptista",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "doppler team",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "praveen pai kasturi",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "sfmc ",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "jennifer shewell ",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "agena ",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": " adilson mohr.",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "usage team",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "ayush saxena ",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "pvc team ,  ownership related issues",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "manjunath narayan",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "sdash(consumer portal)ucde",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "puggina lima, carolina (po), ana carolina polese",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "portal team(oobe)\n",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "marcos pedroso de lacerda",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "smb portal",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "carem ",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "firmware",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "fw poc \nsol:  nilogal, prashanth (ipg r&d hub) <prashanth.nilogal@hp.com> (sol products include avengers, yolo, 3m(hulk), rivers, vasari, novelli/paas)\napollo: \tc n susheen srivatsa and jayadeva, shreevathsa k <shreevathsa.jayadeva@hp.com> (apollo include eyrie, skyreach, knights mlk,  kay/geheris(k/g) etc..)\nares: srivastava, saurabh <saurabh.srivastava2@hp.com> (ares include lebi, tassel)\ndune: tripathi, shyam bihari mani <sbm.tripathi@hp.com> (dune include ulysses, selene,(u/s) mmk(marconi, moreto and kebin), beam, jupiter, sunspot.. zelus, euthenia (z/e) etc..)\necosystem triage: khader, mohamed abdul <mohamed.khader@hp.com>\nthere is no single lookup document for products to platform names - software vintage chart is a starting point",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "gen1 printer issues",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "bhavin bennadi, shiladitya mukherjee",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "gen2 printer issues",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "subramanina hariharan",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "ballparks",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "avadhut upendra bhangui",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "token management",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "anup kumar/ matthew sullivan",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "mart",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "sridhar kulkarni",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "alpaca team",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "alejandro navarro, srikanth pola",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "crm",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "shewell jennifer,  susanne khawand",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "ipp infra",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "vaishali",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "roam",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "rayed badiuzzaman ",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "smartville",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "vidhya diwakaran",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "active authentication team",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "juli lee",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "smart security",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "prathap wagle",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "ows screen",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "greg johnson",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "optimizely screen",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "gretchen gary",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "apollo cpe team",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "shreevathsa k jayadeva",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "jshell (smb top navigation bar, login screens)",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "morais linck, milton, ferreira jane",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "dune printer ",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "shyam bihari tripati",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "for all apollo devices (shirato, angel, eyrie, skyreach, kay, geheris) pls contact directly",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "cdm ",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "print anywhere page",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "rayed badiuzzaman (roam team)",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "sierra team poc",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": " kumar, ashritha (cw)(ashritha.kumar@hp.com)",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": " fwupdate api owner",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "fahrenkrug, mark a",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "\u00a0print privacy,",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "nash tadepalli\u00a0 and\u00a0rose ng",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "device transfer service ",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "ray obidowski (tpm) '",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "k",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "sean o'brien",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "ews",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "todd lutz",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "copter team",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "jack wang",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "onboarding director ",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "mayrgundter, allison",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "hpx windows app dev",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "pradeep.dharani@hp.com ",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "aa team, active authentication team.",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "juli lee",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "shortcutt team",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "vinicius azevedo de oliveira. rajat bera",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "cdn service",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "reeti",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "data os",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "ray.hechavarria@hp.com, sujithkrishnan.pallath@hp.com",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "wechat",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "yudong wang",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "rtp ",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "ravindra vishnumurthy",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "config team",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "venkateshwarulu  hritvik",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "pin pairing  authz issue",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "jithin.m.baby@hp.com\u00a0",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "authz",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "deepak mandakale",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "flex-worker ",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": " kumar.dasari@hp.com",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "tenzing team",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "khyati singh , harsh mani tripathi",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "emulator ",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "sudheer reddy",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "sdm api",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "brazil team, saito fernandao, israel buiatti",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "devices mfe on ecp",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "KANG, HYUNGJONG",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "properties tab in device mfe ",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "neha tyagi",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "portal(ucde)\n",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": "ana carolina polese",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  },
+  {
+    "services": "hpcc ",
+    "parent_service": "non_stratus",
+    "swat_dept": "non_stratus",
+    "poc": " giwon seo",
+    "asset_architect": "NA",
+    "asset_tpm": "NA"
+  }
+
+]
