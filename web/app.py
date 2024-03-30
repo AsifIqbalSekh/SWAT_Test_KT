@@ -174,7 +174,7 @@ def login():
 
 @app.route('/test')
 def about():
-    return jsonify({"status":"success","msg":"application running successfully!","purpose":"testing please ignore!"})
+    return jsonify({"Developed By":"Sk Asif Iqbal","status":"success","msg":"application running successfully! I Love You Rahana ! ","purpose":"testing please ignore!"})
 
 if __name__=='__main__':
     app.run(host='0.0.0.0', debug=True)
